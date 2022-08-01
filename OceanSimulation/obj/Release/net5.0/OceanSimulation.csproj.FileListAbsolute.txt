@@ -1,0 +1,12 @@
+C:\Users\38095\source\repos\C#\SoftServePractice\OceanSimulation\bin\Release\net5.0\OceanSimulation.deps.json
+C:\Users\38095\source\repos\C#\SoftServePractice\OceanSimulation\bin\Release\net5.0\OceanSimulation.dll
+C:\Users\38095\source\repos\C#\SoftServePractice\OceanSimulation\bin\Release\net5.0\OceanSimulation.pdb
+C:\Users\38095\source\repos\C#\SoftServePractice\OceanSimulation\obj\Release\net5.0\OceanSimulation.csproj.AssemblyReference.cache
+C:\Users\38095\source\repos\C#\SoftServePractice\OceanSimulation\obj\Release\net5.0\OceanSimulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\38095\source\repos\C#\SoftServePractice\OceanSimulation\obj\Release\net5.0\OceanSimulation.AssemblyInfoInputs.cache
+C:\Users\38095\source\repos\C#\SoftServePractice\OceanSimulation\obj\Release\net5.0\OceanSimulation.AssemblyInfo.cs
+C:\Users\38095\source\repos\C#\SoftServePractice\OceanSimulation\obj\Release\net5.0\OceanSimulation.csproj.CoreCompileInputs.cache
+C:\Users\38095\source\repos\C#\SoftServePractice\OceanSimulation\obj\Release\net5.0\OceanSimulation.dll
+C:\Users\38095\source\repos\C#\SoftServePractice\OceanSimulation\obj\Release\net5.0\refint\OceanSimulation.dll
+C:\Users\38095\source\repos\C#\SoftServePractice\OceanSimulation\obj\Release\net5.0\OceanSimulation.pdb
+C:\Users\38095\source\repos\C#\SoftServePractice\OceanSimulation\obj\Release\net5.0\ref\OceanSimulation.dll

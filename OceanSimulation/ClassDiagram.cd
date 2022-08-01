@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="OceanSimulation.Ocean">
+    <Position X="10" Y="0.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAMAAAYMAAERIAQBCgRAFAEAiACEABgABACACBARAgA=</HashCode>
+      <FileName>Ocean.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.1" />
+  </Class>
+  <Class Name="OceanSimulation.Cell">
+    <Position X="7.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAoAgAAhAAgAAAAIAAAgAQGADAIAASAQIgAAAAAAA=</HashCode>
+      <FileName>Cells\Cell.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OceanSimulation.Prey">
+    <Position X="5.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAgAAIAAEAAAAAAAAAAACAAAAAAAAAAAAACAQAA=</HashCode>
+      <FileName>Cells\Prey.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OceanSimulation.Predator">
+    <Position X="3.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAgAEIAAFAAgAIAAAAAAAgAQAAIAAAAAAAAAAAA=</HashCode>
+      <FileName>Cells\Predator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OceanSimulation.Obstacle" Collapsed="true">
+    <Position X="5.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Cells\Obstacle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OceanSimulation.Bonus" Collapsed="true">
+    <Position X="5.5" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Cells\Bonus.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="OceanSimulation.IOcean">
+    <Position X="12.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAIEAAAAIAABAgRAAAEAAACAAAAAAACACBABAAA=</HashCode>
+      <FileName>Interfaces\IOcean.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

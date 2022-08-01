@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="OceanWinForms.WinFormInput">
+    <Position X="8.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABBAAAAAAAGAAAAAIAAAIAAEIAAABAAIAAAA=</HashCode>
+      <FileName>WinFormUI\WinFormInput.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="OceanWinForms.WinFormOutput">
+    <Position X="10.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAQCAAAQgAAAAJAFAAAAAQEECAAAAIAgAAEAAA=</HashCode>
+      <FileName>WinFormUI\WinFormOutput.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="OceanWinForms.LoadForm" Collapsed="true">
+    <Position X="4.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAgBAAEAACQIAQACAACASAACAEAwAQCIAAQAAAAAAAA=</HashCode>
+      <FileName>LoadForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OceanWinForms.OceanForm" Collapsed="true">
+    <Position X="4.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAClAAIASAAERGCMgCAQAACGgCgAAgAAAAQQAAAIIA=</HashCode>
+      <FileName>OceanForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OceanWinForms.SettingsForm" Collapsed="true">
+    <Position X="4.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAA4AICHCICQACADCASCACCAAIARAAQABQ4AgRSWQ=</HashCode>
+      <FileName>SettingsForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="OceanSimulation.IOutput">
+    <Position X="12.25" Y="4" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Interface Name="OceanSimulation.IInput">
+    <Position X="6.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

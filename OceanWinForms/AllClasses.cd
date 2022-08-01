@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="OceanWinForms.WinFormInput" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABBAAAAAAAGAAAAAIAAAIAAEIAAABAAIAAAA=</HashCode>
+      <FileName>WinFormUI\WinFormInput.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="OceanWinForms.WinFormOutput" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAQCAAAQgAAAAJAFAAAAAQEECAAAAIAgAAEAAA=</HashCode>
+      <FileName>WinFormUI\WinFormOutput.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="OceanWinForms.LoadForm" Collapsed="true">
+    <Position X="0.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAgBAAEAACQIAQACAACASAACAEAwAQCIAAQAAAAAAAA=</HashCode>
+      <FileName>LoadForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OceanWinForms.OceanForm" Collapsed="true">
+    <Position X="0.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAClAAIASAAERGCMgCAQAACGgCgAAgAAAAQQAAAIIA=</HashCode>
+      <FileName>OceanForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OceanWinForms.SettingsForm" Collapsed="true">
+    <Position X="0.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAA4AICHCICQACADCASCACCAAIARAAQABQ4AgRSWQ=</HashCode>
+      <FileName>SettingsForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OceanSimulation.Bonus" Collapsed="true">
+    <Position X="2.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="OceanSimulation.Cell" Collapsed="true">
+    <Position X="4.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="OceanSimulation.Obstacle" Collapsed="true">
+    <Position X="7" Y="2.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="OceanSimulation.Predator" Collapsed="true">
+    <Position X="4.75" Y="4" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="OceanSimulation.Prey" Collapsed="true">
+    <Position X="4.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="OceanSimulation.WrongAmountInput" Collapsed="true">
+    <Position X="11" Y="5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="OceanSimulation.Coordinate" Collapsed="true">
+    <Position X="10.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="OceanSimulation.Ocean">
+    <Position X="8.75" Y="1.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier />
+  </Class>
+  <Class Name="OceanSimulation.Rand" Collapsed="true">
+    <Position X="10.75" Y="3" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Interface Name="OceanSimulation.IInput" Collapsed="true">
+    <Position X="10.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Interface Name="OceanSimulation.IOutput" Collapsed="true">
+    <Position X="10.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
